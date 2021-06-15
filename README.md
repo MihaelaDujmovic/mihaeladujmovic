@@ -15,17 +15,18 @@
 <li>Gazda Paja</li> 
 <li>Maneskin</li>
 <li>Opća Opasnost</li>
+	</ol>
 	
 <p>Knjige koje čitam:
 <ol>
 <li>Na tezgi godišnjih doba</li> 
 <li>Koliba</li>
 <li>Leptirov let</li>
+<ol>
 	
-<h2>Navigacijska lista za :
-  <ol>
-</h2>
-<p><a href="predavanja.html">predavanja.html</a></p>
+<h2>Navigacijska lista za :</h2>
+
+	<p><a href="predavanja.html">predavanja.html</a></p>
 		<p>	
 		  <a href="vjezbe.html">vjezbe.html</a></p>
 		<p>
